@@ -4,18 +4,21 @@
       "id": 1,
       "name": "John",
       "age": 30,
+      "image" : "https://randomuser.me/api/portraits/men/20.jpg",
       "address": "New York"
     },
     {
       "id": 2,
       "name": "Mary",
       "age": 25,
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
       "address": "New York"
     },
     {
       "id": 3,
       "name": "Peter",
-      "age": 35,
+      "age": 34,
+      "image": "https://randomuser.me/api/portraits/men/34.jpg",
       "address": "New York"
     }
   ]
