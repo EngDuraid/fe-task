@@ -1,0 +1,22 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "John",
+      "age": 30,
+      "address": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Mary",
+      "age": 25,
+      "address": "New York"
+    },
+    {
+      "id": 3,
+      "name": "Peter",
+      "age": 35,
+      "address": "New York"
+    }
+  ]
+}
